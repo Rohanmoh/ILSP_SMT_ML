@@ -1,0 +1,5 @@
+Number Of Jobs=10 
+Number Of Machines=5
+Number Of Operations per Job=5 
+Number Of Periods=5 
+Length Of Period=10000
